@@ -1,0 +1,42 @@
+body{
+    background-image: url("../images/dark_wood.png");
+    font-family:'Oswald', sans-serif;
+
+}
+
+#navbar{
+    background-color:grey;
+    color: black;
+}
+
+.linebreak{
+    color: rgb(235, 29, 29);
+}
+
+.container{
+    color: steelblue;
+}
+
+.footer{
+    width:100;
+    margin:auto;
+    text-align:center;
+    position: relative;
+    bottom:0;
+    padding-bottom:20px;
+}
+#personal-img{
+    width:200px;
+    height: 300px;
+    float:left;
+    margin-right: 10px;
+}
+
+#connect{
+    margin:auto;
+}
+#bodytitle{
+    margin:auto;
+    float:none;
+    clear:both;
+}
